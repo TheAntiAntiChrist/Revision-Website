@@ -8,3 +8,9 @@
   -Uploaded /chemistry/organicchem/alkenes.html
   -Uploaded /chemistry/organicchem/alkene-drawing.png
   -Uploaded /chemistry/organicchem/alkene-formula.png
+
+16/03/18:
+-Added the rateofreaction.html revision page
+  -Created the directory /chemistry/chemicalchange/
+  -Uploaded a WIP /chemistry/chemicalchange/rateofreaction.html page
+  -Created and uploaded /chemistry/chemicalchange/rateofreac.png image
